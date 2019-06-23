@@ -1,5 +1,17 @@
 # vscode
 
+## Settings:
+
+Navigate to `Code > Preferences > Settings` and use this config --> [settings.json](https://github.com/AlberErre/vscode-import-export/blob/master/settings.json)
+
+------
+
+## Snippets:
+
+Navigate to `Code > Preferences > User snippets` and use this file --> [javascript.json](https://github.com/AlberErre/vscode-import-export/blob/master/javascript.json)
+
+------
+
 ## Extensions:
 
 ### 1) Export your VS Code extensions from terminal
@@ -16,7 +28,3 @@ Run your `vscode_extensions.sh`:
 ```sh
 bash vscode_extensions.sh
 ```
-
-## Settings:
-
-Navigate to settings.json and add this config --> [config json](https://github.com/AlberErre/vscode-import-export/blob/master/settings.json)
