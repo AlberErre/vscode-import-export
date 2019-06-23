@@ -16,3 +16,7 @@ Run your `vscode_extensions.sh`:
 ```sh
 bash vscode_extensions.sh
 ```
+
+## Settings:
+
+Navigate to settings.json and add this config --> [config json](https://github.com/AlberErre/vscode-import-export/blob/master/settings.json)
