@@ -25,5 +25,20 @@
       "export default $1;"
     ],
     "description": "Const react stateless component"
+  },
+  "Ready to go React Const stateless component with hooks": {
+    "prefix": "erre",
+    "body": [
+      "import React, { useState, useEffect } from 'react';\n",
+      "const $1 = (props) => {",
+      "\treturn (",
+      "\t\t<React.Fragment>",
+      "\t\t\t$2",
+      "\t\t</React.Fragment>",
+      "\t);",
+      "};\n",
+      "export default $1;"
+    ],
+    "description": "Ready to go React Const stateless component with hooks"
   }
 }
