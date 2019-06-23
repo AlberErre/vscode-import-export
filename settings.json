@@ -1,0 +1,15 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.startupEditor": "newUntitledFile",
+  "prettier.tabWidth": 2,
+  "editor.detectIndentation": false,
+  "editor.trimAutoWhitespace": false,
+  "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "prettier.eslintIntegration": true,
+  "editor.tabSize": 2
+}
