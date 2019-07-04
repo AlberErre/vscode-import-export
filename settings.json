@@ -11,5 +11,6 @@
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
   "prettier.eslintIntegration": true,
+  "prettier.tslintIntegration": true,
   "editor.tabSize": 2
 }
